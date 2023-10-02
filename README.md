@@ -74,7 +74,4 @@ Member4(ME): Django 서비스 개발 & 지역별 대여현황 데이터 수집, 
 - Python 3.9
 - JavaScript(서비스개발)
 
-# Result
-Django로 구현한 대시보드 
 
-[대시보드(1조)](http://joohyoung.pythonanywhere.com/)
